@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hello 👋, I'm Jeong Jun Ahn</h1>
-<h3 align="center">An enthusiastic sophomore Computer Science stduent from South Korea, who is eager to learn and grow!</h3>
+<h3 align="center">An enthusiastic sophomore Computer Science student from South Korea!</h3>
 
 ---
 

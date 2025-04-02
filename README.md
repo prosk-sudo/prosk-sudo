@@ -35,3 +35,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prosk-sudo&" alt="prosk-sudo" />
 </p>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/prosk-sudo?pet-id=1" width="1000" height="120"/>
+</a>

@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript** for building my own website :)
 
-- ⚡ Fun fact: I am a big fan of NJZ!
+- ⚡ Fun fact: I am a big fan of NewJeans!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prosk-sudo&show_icons=true&locale=en&layout=compact" alt="prosk-sudo" />

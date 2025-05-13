@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ---
 
-- 🔭 I’m currently working on making a SAT Solver in Haskell!
+- 🔭 I’m currently working on making a discord bot with many features!
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript** for building my own website :)
 

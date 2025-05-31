@@ -13,21 +13,53 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
 <h1 align="center">Hello 👋, I'm Jeong Jun Ahn</h1>
-<h3 align="center">An enthusiastic sophomore Computer Science stduent from South Korea, who is eager to learn and grow!</h3>
+<b>An enthusiastic sophomore Computer Science stduent from South Korea, who is eager to learn and grow!</b>
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prosk-sudo&style=for-the-badge" alt="profile views"/>
+</p>
 
 ---
 
-- 🔭 I’m currently working on making a SAT Solver in Haskell!
+<code style="color : magenta">Things about me</code>
 
+<br/>
+
+- 🔭 I’m currently studying for my final exams at university.
 - 🌱 I’m currently learning **HTML, CSS and JavaScript** for building my own website :)
+- ⚡ Fun fact: I am a big fan of NewJeans!
 
-- ⚡ Fun fact: I am a big fan of NJZ!
+---
 
+<code style="color : magenta">Stats</code>
+
+<br/>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=prosk-sudo&show_icons=true&locale=en&theme=tokyonight" alt="prosk-sudo" />
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prosk-sudo&show_icons=true&locale=en&layout=compact" alt="prosk-sudo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prosk-sudo&show_icons=true&locale=en" alt="prosk-sudo" /></p>
+<p align="center"> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prosk-sudo&locale=en&theme=tokyonight" alt="prosk-sudo" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prosk-sudo&" alt="prosk-sudo" />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prosk-sudo&show_icons=true&locale=en&theme=tokyonight" alt="prosk-sudo" />
+</p>
+
+---
+
+<code style="color : magenta">Little Farm</code>
+
+<br/>
+
+<p align="center">
+    <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/prosk-sudo"/>
+    </a>
 </p>

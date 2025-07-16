@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 <br/>
 
-- 🔭 I’m currently studying for my final exams at university.
-- 🌱 I’m currently learning **HTML, CSS and JavaScript** for building my own website :)
+- 🔭 I’m currently working on the final year thesis :)
+- 🌱 Taking a nice summer break in South Korea while learning many different stuff
 - ⚡ Fun fact: I am a big fan of NewJeans!
 
 ---

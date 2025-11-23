@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <h1 align="center">Hello 👋, I'm Jeong Jun Ahn</h1>
-<b>An enthusiastic sophomore Computer Science stduent from South Korea, who is eager to learn and grow!</b>
+<b>An enthusiastic senior Computer Science student from South Korea, who is eager to learn and grow!</b>
 </div>
 
 <br/>
@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 <br/>
 
 - 🔭 I’m currently working on the final year thesis :)
-- 🌱 Taking a nice summer break in South Korea while learning many different stuff
-- ⚡ Fun fact: I am a big fan of NewJeans!
+- 🌱 Mastering skills in Python
+- ⚡ Fun fact: I love bouldering and playing the piano
 
 ---
 

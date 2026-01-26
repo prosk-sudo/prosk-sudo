@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center"> 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prosk-sudo&locale=en&theme=tokyonight" alt="prosk-sudo" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=prosk-sudo&theme=tokyonight" alt="prosk-sudo" />
 </p>
 
 <p align="center">

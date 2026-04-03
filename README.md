@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 <br/>
 
-- 🔭 I’m currently working on the final year thesis :)
-- 🌱 Mastering skills in Python
+- 🔭 I’m currently studying for the final exams :)
+- 🌱 Thinking about my future
 - ⚡ Fun fact: I love bouldering and playing the piano
 
 ---
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=prosk-sudo&show_icons=true&locale=en&theme=tokyonight" alt="prosk-sudo" />
+    <img src="https://github-readme-stats-alpha-smoky-31.vercel.app/api?username=prosk-sudo&show_icons=true&locale=en&theme=tokyonight" alt="prosk-sudo" />
 </p>
 
 <p align="center"> 
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prosk-sudo&show_icons=true&locale=en&theme=tokyonight" alt="prosk-sudo" />
+    <img src="https://github-readme-stats-alpha-smoky-31.vercel.app/api/top-langs?username=prosk-sudo&show_icons=true&locale=en&theme=tokyonight" alt="prosk-sudo" />
 </p>
 
 ---

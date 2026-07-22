@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-- 🔭 I’m currently studying for the final exams :)
-- 🌱 Thinking about my future
-- ⚡ Fun fact: I love bouldering and playing the piano
+- 🔭 I am actively looking for a job :)
+- 🌱 Learning German
+- ⚡ I love bouldering and playing the piano
 
 ---
 

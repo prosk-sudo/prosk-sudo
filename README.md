@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://seolgi.xyz">
-    <img src="assets/seolgi.png" alt="Have a look at my site" width="200"/>
+    <img src="assets/seolgi-confetti.svg" alt="Have a look at my site" width="512"/>
   </a>
 </p>
 

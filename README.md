@@ -26,6 +26,12 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=prosk-sudo&style=for-the-badge" alt="profile views"/>
 </p>
 
+<p align="center">
+  <a href="https://seolgi.xyz">
+    <img src="assets/seolgi.png" alt="Have a look at my site" width="200"/>
+  </a>
+</p>
+
 ---
 
 <code style="color : magenta">Things about me</code>
